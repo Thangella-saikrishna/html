@@ -2,4 +2,41 @@ p {
     text-align: center;
     color: green;
   }
+  p {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+  }
+  h1 style="background-color:DodgerBlue;">Hello World</h1>
+<p>style="background-color:Tomato;">anurag...</p>
+
+h1 {
+    background-color: green;
+  }
   
+  div {
+    background-color: lightblue;
+  }
+  
+  p {
+    background-color: yellow;
+  }
+  div {
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+  }
+
+
+
+  body {
+    background-color: aqua;
+  }
+  div {
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+  }
