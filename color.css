@@ -1,0 +1,14 @@
+<h1 style="background-color:DodgerBlue;">Hello World</h1>
+<p>style="background-color:Tomato;">anurag...</p>
+
+h1 {
+    background-color: green;
+  }
+  
+  div {
+    background-color: lightblue;
+  }
+  
+  p {
+    background-color: yellow;
+  }
